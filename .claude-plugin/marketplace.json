@@ -1,0 +1,1 @@
+{"$schema":"https://json.schemastore.org/claude-code-marketplace.json","name":"lhg-plugs","owner":{"name":"刘洪光"},"plugins":[{"description":"独立开发专家：一人公司从想法验证、MVP 界定、定价策略到冷启动素材一条龙（indie / mvp / pricing / launch / audit）","name":"lhg-solopreneur","source":"./"}]}
